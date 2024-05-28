@@ -3,15 +3,15 @@ This is the assessment for the last module of ETH + AVAX PROOF: Intermediate EVM
 We're going to complete the difficulties assigned to us in this last module! It includes burning, minting, transferring, redeeming, and checking tokens!
 
 # Description
-Developed in Remix Ethereum, a programming language used for creating tokens and other NFTs, this module is the last one—the final ETH AVAX! As OpenZepplin provides you with a GitHub that generates your first code automatically without you having to type it in, below are a few scripts that can work wonderfully in your advantage. All it takes is a bit extra coding and minting! completed really quickly.
+This module, the final ETH AVAX, was created using Remix Ethereum, a programming language for producing tokens and other NFTs. Because OpenZepplin has a GitHub that generates your first code automatically without requiring you to input it in, the scripts listed below can be extremely useful. All it requires is some more code and minting! completed really soon.
 
 # Getting Started
-Launch Remix: Open the Remix Ethereum IDE and click the "+" symbol to start a new file in the left-hand file explorer window. Paste the code for the contract into the editor.
+Open the Remix Ethereum IDE and click the "+" symbol to create a new file in the left-hand file explorer window. Paste the contract code into the editor.
 
-Go to the "Solidity Compiler" tab located in the sidebar on the left. Choose the Solidity compiler version (~0.8.18 in this example) that corresponds to the pragma declaration in your contract. Then, to compile the contract and add features like mining, redeeming, transferring, and balancing your token, click the "Compile DegenToken.sol" button!
+Go to the "Solidity Compiler" tab in the sidebar on the left. Select the Solidity compiler version (0.8.18 in this case) that matches the pragma declaration in your contract. Then, click the "Compile DegenToken.sol" button to complete the contract and add functions such as mining, redeeming, transferring, and balancing your token!
 
 # Executing the Code
-When you're finished, use Ctrl + S to check your code for inconsistencies. If there are none, you're done! You're on to the next phase now! On the left sidebar, select the "Deploy & run transactions" tab. Click "Deploy" after choosing the "DegenToken" contract from the drop-down menu. Verify the transaction, and the contract need to be activated shortly after!
+When you're finished, press Ctrl + S to verify your code for discrepancies. If there are none, you're finished! You've moved on to the next phase! On the left sidebar, click the "Deploy & Run Transactions" tab. Click "Deploy" after selecting the "DegenToken" contract from the drop-down menu. Verify the transaction, and the contract should be activated shortly after!
 
 # Authors
 Cyrus John Navarro Reynoso
